@@ -73,8 +73,6 @@ public class App
         article2.addPerson(p1);
         article2.addPerson(p2);
 
-
-
         ds.save(p);
         ds.save(p1);
         ds.save(p2);
